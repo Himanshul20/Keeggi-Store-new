@@ -1,0 +1,129 @@
+{
+  "project_info": {
+    "project_number": "628512335663",
+    "project_id": "keeggi-etm",
+    "storage_bucket": "keeggi-etm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628512335663:android:fff95992ed7c99a5f623da",
+        "android_client_info": {
+          "package_name": "com.keeggi.rider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628512335663-l1k9absiolfa3vrhvkgibq69d9ecs3su.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN9HzXST22Gm43E50kwSP95wZNwyfMbJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628512335663-l1k9absiolfa3vrhvkgibq69d9ecs3su.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "628512335663-6tlc39nqbbnd6tkqu72ukhmdr7m6nmib.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.easterntraders.keeggi",
+                "app_store_id": "1508267852"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628512335663:android:6527639c86e78036f623da",
+        "android_client_info": {
+          "package_name": "com.keeggi.vendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628512335663-l1k9absiolfa3vrhvkgibq69d9ecs3su.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN9HzXST22Gm43E50kwSP95wZNwyfMbJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628512335663-l1k9absiolfa3vrhvkgibq69d9ecs3su.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "628512335663-6tlc39nqbbnd6tkqu72ukhmdr7m6nmib.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.easterntraders.keeggi",
+                "app_store_id": "1508267852"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628512335663:android:1c910108666327e0f623da",
+        "android_client_info": {
+          "package_name": "com.keeggicustomer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628512335663-dhntsn5ol21oj35pc0hfeeap7ndkkk3u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.keeggicustomer",
+            "certificate_hash": "b45e173e10f2aee385bacb1e9b3d4d20b3b71d87"
+          }
+        },
+        {
+          "client_id": "628512335663-l1k9absiolfa3vrhvkgibq69d9ecs3su.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN9HzXST22Gm43E50kwSP95wZNwyfMbJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628512335663-l1k9absiolfa3vrhvkgibq69d9ecs3su.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "628512335663-6tlc39nqbbnd6tkqu72ukhmdr7m6nmib.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.easterntraders.keeggi",
+                "app_store_id": "1508267852"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
