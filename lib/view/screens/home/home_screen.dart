@@ -224,7 +224,7 @@ class _HomeScreenState extends State<HomeScreen> {
                                 //editing controller of this TextField
                                 decoration: InputDecoration(
                                     icon: Icon(Icons.calendar_today), //icon of text field
-                                    labelText: "From Date" //label text of field
+                                    labelText: "To Date" //label text of field
                                 ),
                                 readOnly: true,
                                 //set it true, so that user will not able to edit text
